@@ -4,4 +4,4 @@ Download the .zip folder and extract it to the same directory. Open the extracte
 
 I have included all relevant scrrenshots of the app. 
 
-if you encounter issues, a common fix is to rebuid your gradle files
+if you encounter issues, a common fix is to rebuid your gradle files or to delete the folder and clone again. 
