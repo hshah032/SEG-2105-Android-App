@@ -1,5 +1,5 @@
 Instructions:
 
-clone the repo and open it as a project in Android Studio. 
+Download the .zip folder and extract it to the same directory. Open the extracted folder with Android Studio. 
 
 if you encounter issues, a common fix is to rebuid your gradle files
