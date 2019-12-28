@@ -1,0 +1,5 @@
+Instructions:
+
+clone the repo and open it as a project in Android Studio. 
+
+if you encounter issues, a common fix is to rebuid your gradle files
